@@ -1,10 +1,10 @@
 TEAM CHARTER — [Marketing Data]
 
 LIIKMED:
-1. Ragnar Laak (OS: Win)  Roll nädal 1: Team Charter Koostaja
-2. Kätlin Tootmaa (OS: Win)  Roll nädal 1: NotebookLM Seadistaja
-3. Mari Edel (OS: Win)  Roll nädal 1: Supabase Seadistaja
-4. Karmo Nopri (OS: Win)  Roll nädal 1: GitHub Repo Seadistaja
+1. Ragnar Laak (OS: Win)  Roll nädal 0: Team Charter Koostaja
+2. Kätlin Tootmaa (OS: Win)  Roll nädal 0: NotebookLM Seadistaja
+3. Mari Edel (OS: Win)  Roll nädal 0: Supabase Seadistaja
+4. Karmo Nopri (OS: Win)  Roll nädal 0: GitHub Repo Seadistaja
 
 ÜHISED TÖÖRIISTAD:
 Suhtluskanal: Grupitoo G4 (Google Workspace Chat)
