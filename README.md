@@ -5,5 +5,5 @@
    | [Ragnar Laak] | D: Team Charter Koostaja | Win |
    | [Karmo Nopri] | A: GitHub Repo Seadistaja | Win |
    ## Meie eesmärk
-   [Õppida ja areneda]
+   [Seadistada ühine töökeskkond]
 
