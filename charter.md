@@ -23,12 +23,17 @@ KOKKULEPPED:
 3. Kuidas me jagame faile?
    	Kasutame selleks google drive-i (Alternatiivid pole välistatud)
 
+ROLLID:
+A) GitHub Repo Seadistaja
+B) Supabase Seadistaja
+C) NotebookLM Seadistaja
+D) Team Charter Koostaja
 
 ROLLIDE ROTATSIOON:
-Nädal 1: A=Ragnar B=Kätlin C=Mari D=Karmo
-Nädal 2: A=Karmo B=Ragnar C=Kätlin D=Mari
-Nädal 3: A=Mari B=Karmo C=Ragnar D=Kätlin
-Nädal 4: A=Kätlin B=Mari C=Karmo D=Ragnar
+Nädal 1: A=Karmo B=Mari C=Kätlin D=Ragnar
+Nädal 2: A=Ragnar B=Karmo C=Mari D=Kätlin
+Nädal 3: A=Kätlin B=Ragnar C=Karmo D=Mari
+Nädal 4: A=Mari B=Kätlin C=Ragnar D=Karmo
 
 ALLKIRJAD:  Kõik Nõus
 
